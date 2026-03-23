@@ -37,16 +37,21 @@ btech-cse-interview-prep/
 ├── README.md
 ├── SKILL.md              <- Core skill instructions for Claude
 ├── WARP.md               <- Quick reference cheatsheet
-└── references/
-    ├── dsa.md            <- DSA patterns and problems
-    ├── os.md             <- OS concepts and questions
-    ├── oops.md           <- OOP principles and design patterns
-    ├── cn.md             <- Computer Networks reference
-    ├── dbms.md           <- DBMS and SQL reference
-    ├── aptitude.md       <- Aptitude formulas and tricks
-    ├── system-design.md  <- System design frameworks
-    ├── hr.md             <- HR and behavioural round prep
-    └── git-github-gsoc.md <- Git, GitHub and GSoC guide
+├── references/
+│   ├── dsa.md            <- DSA patterns and problems
+│   ├── os.md             <- OS concepts and questions
+│   ├── oops.md           <- OOP principles and design patterns
+│   ├── cn.md             <- Computer Networks reference
+│   ├── dbms.md           <- DBMS and SQL reference
+│   ├── aptitude.md       <- Aptitude formulas and tricks
+│   ├── system-design.md  <- System design frameworks
+│   ├── hr.md             <- HR and behavioural round prep
+│   └── git-github-gsoc.md <- Git, GitHub and GSoC guide
+└── resume-builder/
+    ├── SKILL.md          <- Resume builder skill instructions
+    └── templates/
+        ├── html-template.md  <- HTML + CSS visual resume template
+        └── latex-template.md <- LaTeX ATS resume template (Overleaf)
 ```
 
 ## Target Audience
